@@ -1,0 +1,36 @@
+.ratings{
+    justify-content: space-around;
+    display: flex;
+     flex-direction: column;
+     align-items: center;
+}
+
+iframe{
+    margin: 20px;
+}
+
+body{
+    background-color: rgb(66, 2, 66);
+}
+
+h1{
+    color: aliceblue;
+    align-items: center;
+    display: flex;
+}
+
+.TNTLsucks{
+    justify-content: center;
+    display: flex;
+}
+
+.logo {
+    width: 130px;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+}
+
+.logo:hover{
+    opacity: 0.5;
+}

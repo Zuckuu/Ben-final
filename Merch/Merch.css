@@ -1,0 +1,87 @@
+body{
+    background-color: rgb(19, 246, 140);
+}
+.title{
+    font-size: 70px;
+ color: darkred;
+    text-shadow: 0 0 10px yellow, 0 0 10px yellow, 0 0 10px yellow, 0 0 10px yellow;
+}
+.contain2{
+    display: flex;
+    justify-content: center;
+}
+
+.jumbo{
+    position: absolute;
+    width: 400px;
+    left:20px;
+    top: 300px
+}
+.opila{
+    position: absolute;
+    width: 200px;
+    right: 80px;
+    top: 290px
+}
+.banban{
+    position: absolute;
+    width: 400px;
+    left:20px;
+    top: 700px
+}
+.stinger{
+    position: absolute;
+    width: 500px;
+    right:20px;
+    top: 800px
+}
+.toad{
+    position: absolute;
+    width: 500px;
+    left:20px;
+    top: 1200px
+}
+.fun{
+    position: absolute;
+    width: 400px;
+    right:20px;
+    top: 1200px
+}
+
+.title{
+    font-size: 70px;
+ color: darkred;
+    text-shadow: 0 0 10px yellow, 0 0 10px yellow, 0 0 10px yellow, 0 0 10px yellow;
+}
+.contain3{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    height: 1000px;
+    margin-top: 200px;
+}
+
+.OJ{
+    text-shadow: 0 0 5px lime;
+    color: rgb(135, 73, 84);
+}
+.SB{
+    text-shadow: 0 0 5px orangered,0 0 5px orangered ;
+    color: rgb(255, 16, 60);
+}
+.TJ{
+    text-shadow: 0 0 5px rgb(69, 53, 12),0 0 5px rgb(69, 53, 12);
+    color: rgb(184, 23, 202);
+}
+.logo {
+    width: 130px;
+    position: fixed;
+    left: -1px;
+    top: 10px;
+    z-index: 1;
+}
+
+.logo:hover{
+    opacity: 0.5;
+}

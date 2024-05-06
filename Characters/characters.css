@@ -1,0 +1,275 @@
+body
+{
+    background-color: rgb(84, 124, 117);
+}
+
+.title {
+    position: absolute;
+    font-size: 70px;
+    color: rgb(46, 12, 38);
+    margin: 20px;
+    text-shadow: 0 0 3px rgb(15, 229, 44), 0 0 5px rgb(136, 213, 60);
+}
+    
+.img1{
+width: 350px;
+display: flex;
+position: absolute;
+right: 1100px;
+top: 250px;
+border-radius: 100px;
+border: 20px red inset;
+top: 220px;
+}
+.bunbun{
+    position: absolute;
+    left: 575px;
+    top: 220px;
+    text-shadow: 0 0 5px red;
+    color: rgb(64, 6, 6);
+}
+.bunbun2{
+    text-shadow: 0 0 5px red;
+    color: rgb(64, 6, 6);
+    position: absolute;
+    left: 500px;
+    top:250px;
+    font-size: 20px;
+}
+
+.div1{
+    position: absolute;
+    top: 600px;
+}
+
+.img2{
+    width: 350px;
+    display: flex;
+    position: absolute;
+    right: 1100px;
+    top: 500px;
+    border-radius: 100px;
+    border: 20px rgb(195, 136, 20) inset;
+    
+    }
+    .bunbun3{
+        text-shadow: 0 0 5px rgb(223, 209, 54);
+        color: rgb(86, 51, 12);
+        position: absolute;
+        left: 500px;
+        top:500px;
+        font-size: 20px;
+    }
+    .bunbun1{
+        position: absolute;
+        left: 560px;
+        top: 470px;
+        text-shadow: 0 0 5px rgb(223, 209, 54);
+        color: rgb(86, 51, 12);
+    }
+
+    .img3{
+        width: 350px;
+        display: flex;
+        position: absolute;
+        right: 1225px;
+        top: 750px;
+        border-radius: 100px;
+        border: 20px rgb(81, 68, 24) inset;
+        height: 300px;
+        width: 175px;
+        
+        }
+        .bunbun4{
+            text-shadow: 0 0 10px rgb(61, 37, 7);
+            color: rgb(211, 221, 14);
+            position: absolute;
+            left: 500px;
+            top:750px;
+            
+        }
+        .bunbun5{
+            position: absolute;
+            left: 500px;
+            top: 800px;
+            text-shadow: 0 0 10px rgb(61, 37, 7);
+            color: rgb(211, 221, 14);
+            font-size: 20px;
+        }
+    
+        .img4{
+            width: 350px;
+            display: flex;
+            position: absolute;
+            right: 1100px;
+            top: 1555px;
+            border-radius: 100px;
+            border: 20px rgb(48, 213, 26) inset;
+            
+            }
+            .bunbun6{
+                text-shadow: 0 0 5px rgb(54, 244, 20);
+                color: rgb(157, 20, 184);
+                position: absolute;
+                left: 573px;
+                top: 1555px;
+                
+            }
+            .bunbun7{
+                position: absolute;
+                left: 500px;
+                top: 1630px;
+                text-shadow: 0 0 10px rgb(157, 20, 184), 0 0 10px rgb(157,20, 184);
+                color: rgb(54, 244, 20);
+                font-size: 20px;
+            }
+
+            .bunbun8{
+                text-shadow: 0 0 5px rgb(157, 20, 184);
+                color: rgb(54, 244, 20);
+                position: absolute;
+                left: 635px;
+                top: 1555px;
+                }
+            .banban1{
+                color: rgb(220, 220, 220);
+                text-shadow: 0 0 5px rgb(44, 43, 43);
+                text-decoration: none;
+            }
+
+            .img6{
+                width: 350px;
+            display: flex;
+            position: absolute;
+            right: 1100px;
+            top: 2005px;
+            border-radius: 100px;
+            border: 20px rgb(124, 86, 132) inset;
+                
+                }
+                .bunbun11{
+                    text-shadow: 0 0 10px rgb(179, 39, 249),0 0 10px rgb(179, 39, 249);
+                    color: rgb(50, 38, 50);
+                    position: absolute;
+                    left: 500px;
+                    top:2005px;
+                    
+                }
+                .bunbun12{
+                    position: absolute;
+                    left: 500px;
+                    top: 2150px;
+                    text-shadow: 0 0 10px rgb(179, 39, 249),0 0 10px rgb(179, 39, 249);
+                    color: rgb(50, 38, 50);
+                    font-size: 20px;
+                }
+
+            .img5{
+                width: 350px;
+            display: flex;
+            position: absolute;
+            right: 1100px;
+            top: 1125px;
+            border-radius: 100px;
+            border: 20px rgb(81, 11, 234) inset;
+                
+                }
+                .bunbun9{
+                    text-shadow: 0 0 10px rgb(103, 53, 253),0 0 10px rgb(179, 39, 249);
+                    color: rgb(21, 7, 80);
+                    position: absolute;
+                    left: 500px;
+                    top: 1125px;
+                }
+                .bunbun10{
+                    position: absolute;
+                    left: 500px;
+                    top: 1200px;
+                    text-shadow: 0 0 10px rgb(103, 53, 253),0 0 10px rgb(179, 39, 249);
+                    color: rgb(21, 7, 80);
+                    font-size: 20px;
+                }
+
+                .logo {
+                    width: 130px;
+                    position: fixed;
+                    left: -1px;
+                    top: 10px;
+                    z-index: 1;
+                }
+
+                .logo:hover{
+                    opacity: 0.5;
+                }
+                
+
+            .contain1{
+            display: flex;
+            justify-content: center;
+                align-items: center;
+                margin-top: 50px;
+        }
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+
+
+
+

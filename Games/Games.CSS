@@ -1,0 +1,40 @@
+.harharharharharharharharharhar{
+    text-shadow: 0 0 5px rgb(1, 137, 137),0 0 5px rgb(1, 137, 137),0 0 5px rgb(1, 137, 137),0 0 5px rgb(1, 137, 137),0 0 5px rgb(1, 137, 137),0 0 5px rgb(1, 137, 137),0 0 5px rgb(1, 137, 137),0 0 5px rgb(1, 137, 137);
+color: cyan;
+font-size: 30px;
+text-align: center;
+}
+body{
+    background-color: brown;
+}
+
+.one{
+    display: flex;
+flex-direction: column;
+position: absolute;
+left:250px;
+}
+.two{
+    display: flex;
+flex-direction: column;
+position: absolute;
+left:700px;
+height: 900px;
+
+}
+.puzzle{
+ height: 215px;
+
+}
+
+.logo {
+    width: 130px;
+    position: fixed;
+    left: -1px;
+    top: 10px;
+    z-index: 1;
+}
+
+.logo:hover{
+    opacity: 0.5;
+}

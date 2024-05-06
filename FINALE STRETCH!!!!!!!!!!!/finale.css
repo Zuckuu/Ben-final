@@ -1,0 +1,120 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: darkcyan;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    height: 3200px;
+    background-color: rgb(60, 29, 29);
+}
+
+.one {
+    display: flex;
+    position: absolute;
+    top: 200px;
+    left: 460px;
+}
+
+.two {
+    display: flex;
+    position: absolute;
+    top: 600px;
+    left: 460px;
+}
+
+.three {
+    display: flex;
+    position: absolute;
+    top: 1100px;
+    left: 460px;
+}
+
+.four {
+    display: flex;
+    position: absolute;
+    top: 1600px;
+    left: 460px;
+}
+
+.not-five {
+    display: flex;
+    position: absolute;
+    top: 2100px;
+    left: 460px;
+}
+
+.not-six {
+    display: flex;
+    position: absolute;
+    top: 2600px;
+    left: 460px;
+}
+
+p {
+    
+    text-decoration: none;
+    color: darkcyan;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+ .one2{
+
+    width: 400px;
+    top: 400px;
+    position: absolute;
+    left: 490px;
+ }
+
+ .two2{
+
+    width: 400px;
+    top: 800px;
+    position: absolute;
+    left: 490px;
+ }
+
+ .three2{
+
+    width: 400px;
+    top: 1300px;
+    position: absolute;
+    left: 490px;
+ }
+
+ .four2{
+
+    width: 400px;
+    top: 1800px;
+    position: absolute;
+    left: 490px;
+ }
+
+ .five{
+
+    width: 400px;
+    top: 2300px;
+    position: absolute;
+    left: 490px;
+ }
+
+ .six{
+
+    width: 400px;
+    top: 2800px;
+    position: absolute;
+    left: 490px;
+ }
+
+ .logo {
+    width: 130px;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+}
+
+.logo:hover{
+    opacity: 0.5;
+}
