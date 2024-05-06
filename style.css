@@ -1,0 +1,89 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    min-height: 100vh;
+    width: 100%;
+    background-color: red;
+    position: relative;
+}
+
+nav {
+    display: flex;
+    padding: 2% 6%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    width: 130px;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+}
+
+.logo:hover{
+    opacity: 0.5;
+}
+
+
+
+.link {
+    list-style: none;
+    display: inline-block;
+    padding: 8px 12px;
+    position: relative;
+    color: limegreen;
+    text-decoration: none;
+    font-size: larger;
+}
+
+ul {
+    display: flex;
+}
+
+.button-custom {
+    border-radius: 2cm;
+    text-decoration: purple;
+    background-color: lime;
+    text-decoration: none;
+    width: 450px;
+    height: 150px;
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 10px purple solid;
+    text-align: center;
+    font-size: 50px;
+}
+
+li {
+    list-style: none;
+}
+
+.text-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.H-text {
+    font-size: 70px;
+    color: rgb(46, 12, 38);
+    margin: 20px;
+    text-shadow: 0 0 3px rgb(15, 229, 29), 0 0 5px rgb(136, 213, 60);
+
+}
+
+.P-text {
+    font-size: 40px;
+    color: rgb(18, 54, 83);
+    margin: 20px;
+    text-shadow: 0 0 3px rgb(223, 110, 23), 0 0 5px rgb(254, 233, 3);
+}
+
